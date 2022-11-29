@@ -8,7 +8,7 @@ yarn dlx @yarnpkg/sdks vscode
 
 And make sure to switch to the workspace typescript version:
 
-1.Press `ctrl+shift+p` in a TypeScript file
+1. Press `ctrl+shift+p` in a TypeScript file
 2. Choose "Select TypeScript Version"
 3. Pick "Use Workspace Version"
 
