@@ -14,11 +14,14 @@ export default defineConfig(({ mode }) => {
       target: "esnext",
     },
     test: {
+      // deps: {
+      //   inline: [
+      //     //https://github.com/solidjs/solid-testing-library/issues/10
+      //     "@solidjs/testing-library",
+      //   ],
+      // },
       deps: {
-        inline: [
-          //https://github.com/solidjs/solid-testing-library/issues/10
-          "@solidjs/testing-library",
-        ],
+        registerNodeLoader: true,
       },
       environment: "happy-dom",
       //https://vitest.dev/config/#transformmode

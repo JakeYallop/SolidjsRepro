@@ -531,7 +531,6 @@ __metadata:
     typescript: ^4.8.4
     vite: ^3.1.8
     vite-plugin-solid: ^2.3.9
-    vite-plugin-utils: ^0.3.0
     vitest: ^0.25.3
   languageName: unknown
   linkType: soft
@@ -3245,13 +3244,6 @@ __metadata:
     solid-js: ^1.3.17
     vite: ^3.0.0
   checksum: 6cb8cbb71e9645f661461a3c82a401d3d14c6290b9061ad882113937f861fa094c9d8726a6360443fa3164167182cdb7d17f626d8cac647f8a5f32326f86f419
-  languageName: node
-  linkType: hard
-
-"vite-plugin-utils@npm:^0.3.0":
-  version: 0.3.6
-  resolution: "vite-plugin-utils@npm:0.3.6"
-  checksum: df971e9c39bc485dda460eac8879c143a31eface18008418e831261a2433a422fea2d0e239f5543c1f517f8a7a15546e16e88f7e7552df8767ab75b1ab6dfcd1
   languageName: node
   linkType: hard
 
