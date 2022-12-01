@@ -23,6 +23,5 @@
   },
   "dependencies": {
     "solid-js": "^1.5.7"
-  },
-  "packageManager": "yarn@3.3.0"
+  }
 }
